@@ -8,12 +8,15 @@ Este projeto é um desafio prático do **Bootcamp Santander 2025 - DIO**, cujo o
 
 ## 📋 Índice  
 
-- [Sobre](#-sobre)  
-- [Habilidades Desenvolvidas](#-habilidades-desenvolvidas)  
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)  
-- [Estrutura e Conteúdo](#-estrutura-e-conteúdo)  
-- [Como Executar o Projeto](#-como-executar-o-projeto)  
-- [Autor](#-autor)  
+- [🛡️⚔️ Hero Ranker](#️️-hero-ranker)
+  - [✨ Demonstração](#-demonstração)
+  - [📋 Índice](#-índice)
+  - [💡 Sobre](#-sobre)
+  - [🧠 Habilidades Desenvolvidas](#-habilidades-desenvolvidas)
+  - [🧪 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+  - [📄 Estrutura e Conteúdo](#-estrutura-e-conteúdo)
+  - [🧭 Como Visualizar o Projeto](#-como-visualizar-o-projeto)
+  - [👤 Autor](#-autor)
 
 ---
 
@@ -64,14 +67,12 @@ O Herói de nome Arthur está no nível de Platina
 Clone o repositório:
 
 ```bash
-git clone https://github.com/JyojiTenguam/hero-ranker.git
-cd hero-ranker
+git clone https://github.com/JyojiTenguam/clone-discord.git
+cd clone-discord
+start index.html  # No Windows, ou abra o arquivo manualmente no navegador
 ```
 
-Execute o programa com Node.js:
-```bash
-node index.js
-```
+Ou simplesmente abra o arquivo `index.html` no seu navegador.
 
 ## 👤 Autor
 
