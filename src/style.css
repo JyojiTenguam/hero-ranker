@@ -10,7 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("/src/assets/images/thumb-1920-1353166.png") no-repeat center center/cover;
+  background: url("../src/assets/images/thumb-1920-1353166.png") no-repeat center center/cover;
   font-family: Arial, sans-serif;
   color: white;
   text-align: center;
